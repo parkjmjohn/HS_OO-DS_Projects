@@ -1,0 +1,16 @@
+
+public class BinaryTree{
+    private class Node{
+    }
+
+    private TreeNode root;
+
+    public String toStringPrefix(){ 
+    }   
+
+    public double evaluate(){ 
+	return evaluate(root); 
+    }
+    public double evaluate( TreeNode localRoot){
+    }
+}
